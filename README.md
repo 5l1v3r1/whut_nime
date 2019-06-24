@@ -8,4 +8,6 @@ or you can contact me on Instagram <a href="https://instagram.com/muh4k3mos">cli
 <h1>usage</h1>
 $ pip2 install -r requirements.txt<br>
 $ python2 whutnime.py<br>
-now you only need to enter the desired photo path
+now you only need to enter the desired photo path<br>
+<h1>screenshot</h1>
+<img src='.images/testing.jpg'/> <img src=".images/2019-06-24 10.29.41 1.jpg" />
