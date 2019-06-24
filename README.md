@@ -6,5 +6,6 @@ if you find an error please report it to me on Facebook <a href="https://m.faceb
 or you can contact me on Instagram <a href="https://instagram.com/muh4k3mos">click me</a>
 <br>
 <h1>usage</h1>
+$ pip2 install -r requirements.txt
 $ python2 whutnime.py<br>
 now you only need to enter the desired photo path
